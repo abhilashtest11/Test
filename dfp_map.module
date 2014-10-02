@@ -65,3 +65,5 @@ canvas'), myOptions);
     drupal_add_js( $js , 'inline');
   }
 
+adding extra line to the file
+
