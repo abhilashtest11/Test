@@ -31,7 +31,7 @@ n.vid=lon.revision_id )
 
  var location = new google.maps.LatLng( {$row->latitude}, {$row->longitude} );
   }
-
+// adding etra line to the file
    var marker = new google.maps.Marker({position: location, map:
 map });
  var infowindow = new google.maps.InfoWindow({ content:
